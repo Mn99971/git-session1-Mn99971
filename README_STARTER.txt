@@ -1,5 +1,5 @@
 Git Lab Practice 1
 
-Student:
-Project:
-Technologies:
+Student: Mouaad Narjis
+Project:Stagera
+Technologies: Openxr, Unity, MetaSDK
