@@ -28,3 +28,6 @@ git status
 ## Image
 
 ![Lab illustration](Report1.png)
+
+## Remote update
+This line was added on GitHub to practice fetch and pull.
